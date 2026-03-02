@@ -1,0 +1,86 @@
+Privacy Policy
+Effective date: 01.03.2026
+Company: Falcon GmbH
+Contact: info@falcon-sec.de
+Address: Mathias Brüggen Str. 1
+         50827 Köln
+
+Falcon GmbH (“we”, “us”, “our”) provides the Falcon SecPro App for operational use by authorized security workers. This Privacy Policy explains how personal data is collected, used, and protected.
+
+1. Who this app is for
+This app is for employees and authorized personnel of Falcon GmbH. It is not intended for public consumer use.
+
+2. Data we collect
+Depending on your role and use of the app, we may collect:
+
+Account and profile data (name, role, employee identifier)
+Shift and work activity data (assigned shifts, accepted shifts, attendance/check-in/check-out)
+Location data (for shift verification, patrol, SOS, and operational logging)
+Incident and report data (text, photos, attachments, timestamps)
+Communication data (group chat messages, broadcast interactions)
+Device/app data (device type, app version, log/error information)
+Notification data (push token, notification status)
+3. How we use your data
+We process data to:
+
+Manage workforce scheduling and open shift assignment
+Support patrol workflows and operational reporting
+Enable internal communication and alerts
+Improve safety response (including SOS workflows)
+Maintain security, audit trails, and fraud/misuse prevention
+Comply with legal and contractual obligations
+4. Legal basis (where applicable)
+Where required by law (for example GDPR), we process personal data based on:
+
+Performance of employment/contractual obligations
+Legitimate business interests in security operations
+Compliance with legal obligations
+Consent (where required, e.g., specific permissions)
+5. Data sharing
+We do not sell personal data.
+We may share data with:
+
+Authorized internal personnel (admins/supervisors)
+Service providers (hosting, database, notification infrastructure)
+Legal authorities when required by law
+All sharing is limited to what is necessary for operations and compliance.
+
+6. Data retention
+We retain data only as long as needed for operational, contractual, legal, and audit requirements.
+Retention periods may vary by data type (e.g., shift logs, incident reports, audit records).
+
+7. Security
+We apply appropriate technical and organizational safeguards, including:
+
+Access controls and role-based permissions
+Encrypted data transmission
+Logging and monitoring for misuse detection
+No system is 100% secure, but we continuously improve protections.
+
+8. Your rights
+Depending on your jurisdiction, you may have rights to:
+
+Access your personal data
+Request correction of inaccurate data
+Request deletion (where legally possible)
+Restrict or object to processing
+Data portability
+Withdraw consent (where consent is the legal basis)
+To make a request, contact: info@falcon-sec.de.
+
+9. Children
+This app is not intended for children and is only for authorized adult workforce users.
+
+10. International transfers
+If data is processed outside your country, we implement appropriate safeguards required by applicable law.
+
+11. Changes to this policy
+We may update this Privacy Policy from time to time. Updates will be posted with a revised effective date.
+
+12. Contact
+If you have privacy questions or requests:
+
+Falcon GmbH
+Mathias Brüggen Str. 1
+50827 Köln
+info@falcon-sec.de
